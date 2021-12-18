@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T19:36:31.294Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eUxd50C3po9PsQmic67K" version="14.8.0" type="github"><diagram id="5bCVK2h6y52akC2RZia3" name="Page-1">3VnLdqM4EP0alvYBBH4s7ThJL9LnZMYzp7uXMsigNCAiRGzP108JxENguz2x0x7HG0sXqfSoulcqMNBdvH3kOA2/Mp9Ehm36WwMtDNu2LNOGP4nsSsR1xyUQcOqrRg2wpP8QBZoKzalPMq2hYCwSNNVBjyUJ8YSGYc7ZRm+2ZpE+aooD0gOWHo766Dfqi7BEJ67Z4F8IDUJRL1g9iXHVWAFZiH22aUHo3kB3nDFRluLtHYnk5lX7UvZ7OPC0nhgniTilA/7bG8xfHp/yHXmd8JdV/vr9fqCsvOEoVws27FEE9uYrKASyUAFrBuPAMsRO7c3oNWfVg0FWeG4GDexRum0eVlYe50voYi6wwPD3EMFOQI3igOMYSk/kjUQDWMAIxyk0T1ZZ2hobVlUOr08J4NY0bW12tiBbiYcijgCwoJgJzn6SOxYxDkjCEiJnT6OoA+GIBglUPdhZAvj8jXBBISZm6kFMfV8OM9+EVJBlij055gYYABhneeITuelmPS1pgGwPOs6qwwF4RFhMBN9BE9XBNt2yy6YJQMdRURW2gq8KSqxiPqhNNWEBBRUZ/yFKxr3NJT6wRFUZFyELWIKj+wbtbEPT5omxVPnjhQixU5THuWC6t8iWiu+t8o9WebFVdovKrqoksFjZxRyO3ar+o/2w6VfUdpqT5JqOuwi2gOXcI0e2SsmdwDwg4kg7d7/LOYmwoG/6PC7uT8vt0f6B8Q3mvgRBcJkcNcA0ySTlCfZC+PsjJ5mgLClm9BNcuy8onvAKTgDNkafTiROQEbwq7Em/pIwmoli8OzfcxTE6Kf1XnRvVbfvwcGwf5N7AHKLpZFraUkfYAJXVk32lrD/L1TSmR1O9B1uvMwiZrm/rOb3f3dNr0td8D3019lr/P/aiM9lbdJ1xjnetBiraDwaMhSZaHCI06kRLafGisWM5PalYhsXhDWTNIzlfk62L6AJA1iJ5lH8ObZge1QZzaDvV9pypBY6tebay+vHSYFl7PXWFo12R/jOog3MNdXBHphZD9miipwO/aI+QebT92Oqqj2l8uPrYPfE5Oz2x9qcncLXJOYHnc5zJq425rPRsQQSIB+QHtvmNwLDmM0Q8js5JTWDlkL8eSiDa8pilZVK7pltJOC1bMWy0Xnvw66U2hjwb0BT5l0lAkK273hqr0GklJNZU3SnbCUkNXvwGO7nqlaaWqjq5OEG2rpSQoBNFyz5TtM5LSPpE/5O8ynwDwBn4aJdRycWVImeRhAQVZz/DVWNylIGQhlimbV/krtEh8+C3pSGo5+PSs6LnwZbXfJyFNWcLtcx0tewooueT1WT10Yo47Z61fUHcp4fOR72gqd6W3pAeWlfSQ+cW9LCfdM38mCa3R5TRuMMUZzzsv838rVwZXZcq9nvuDkMEt+82X4bTsfMLzhS1Z8IpbJs87y5NJPcWiNR/0fkXxzQh8jY/iwLGqQjj26MV6hxALtpzI68+vZ3JKqg2H6nKu0DzqQ/d/ws=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-18T19:41:38.192Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Tg4QkDfVRrOPUjbyUfMb" version="14.8.0" type="github">
+  <diagram id="5bCVK2h6y52akC2RZia3" name="Page-1">
+    <mxGraphModel dx="1102" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;GBSD Data Flow Diagram Level-0&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aUc-BjGLuyeq8rjbuqXE-2" target="aUc-BjGLuyeq8rjbuqXE-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-15" value="Forward video against each Question asked" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aUc-BjGLuyeq8rjbuqXE-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.3989" y="-3" relative="1" as="geometry">
+            <mxPoint x="69" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aUc-BjGLuyeq8rjbuqXE-2" target="aUc-BjGLuyeq8rjbuqXE-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-14" value="Show results of stress level" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aUc-BjGLuyeq8rjbuqXE-9" vertex="1" connectable="0">
+          <mxGeometry x="0.2414" relative="1" as="geometry">
+            <mxPoint x="42" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aUc-BjGLuyeq8rjbuqXE-2" target="aUc-BjGLuyeq8rjbuqXE-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="268" />
+              <mxPoint x="560" y="330" />
+              <mxPoint x="718" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jKXKBMY69VXoRkYRhgL-3" value="Return CSV file of requested Client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aUc-BjGLuyeq8rjbuqXE-11">
+          <mxGeometry x="0.025" y="-2" relative="1" as="geometry">
+            <mxPoint x="37" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Gesture Based Stress Detector Web Portal&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="328" y="170" width="195" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aUc-BjGLuyeq8rjbuqXE-3" target="aUc-BjGLuyeq8rjbuqXE-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-12" value="Request Analysis based on gesture" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aUc-BjGLuyeq8rjbuqXE-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.1022" relative="1" as="geometry">
+            <mxPoint x="28" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-3" value="Analyst" style="html=1;dashed=0;whitespace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="90" y="260" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aUc-BjGLuyeq8rjbuqXE-4" target="aUc-BjGLuyeq8rjbuqXE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="718" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jKXKBMY69VXoRkYRhgL-2" value="Monitor system &amp;amp; gather new Dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aUc-BjGLuyeq8rjbuqXE-10">
+          <mxGeometry x="0.2605" y="-2" relative="1" as="geometry">
+            <mxPoint x="35" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-4" value="Admin" style="html=1;dashed=0;whitespace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="670" y="247.5" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.318;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aUc-BjGLuyeq8rjbuqXE-5" target="aUc-BjGLuyeq8rjbuqXE-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-jKXKBMY69VXoRkYRhgL-1" value="Return predicted results&lt;br&gt;&amp;nbsp;based on image classification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aUc-BjGLuyeq8rjbuqXE-6">
+          <mxGeometry x="0.4061" y="3" relative="1" as="geometry">
+            <mxPoint x="-37" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUc-BjGLuyeq8rjbuqXE-5" value="Trainer Algorithm" style="html=1;dashed=0;whitespace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="390" y="530" width="102" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
