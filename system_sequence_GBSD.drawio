@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T22:52:59.955Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="N7g_X3WsFB5kiz5da0ap" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T22:54:33.195Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Qu1puNDqC11yYAH6B8SS" version="16.0.0" type="github">
   <diagram id="rJHmTFbt23OQRNdXKMWi" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FCE7CD" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry y="710" width="730" height="180" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-2" value="Web Portal" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;lifelineDashed=0;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="110" width="350" height="890" as="geometry" />
+          <mxGeometry x="200" y="110" width="120" height="890" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
           <mxGeometry x="55" y="60" width="10" height="80" as="geometry" />
@@ -42,12 +42,6 @@
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-120" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
           <mxGeometry x="55" y="820" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-30" value="else" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
-          <mxGeometry x="-140" y="250" width="490" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-29" value="if verified" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
-          <mxGeometry x="-130" y="190" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-3" value="Analyst" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="40" height="960" as="geometry" />
@@ -444,6 +438,12 @@
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="26" y="-4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-29" value="if verified" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-30" value="else" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="490" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
