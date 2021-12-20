@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T22:40:04.968Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yQdIGfuGpC6vyCvOJWCY" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T22:50:47.349Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_rpTfpUfVveUNWdFzX8L" version="16.0.0" type="github">
   <diagram id="rJHmTFbt23OQRNdXKMWi" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FCE7CD" math="0" shadow="0">
       <root>
@@ -7,29 +7,17 @@
         <mxCell id="On6_evThupUvLIn3l62g-110" value="&lt;font style=&quot;font-size: 12px&quot;&gt;LOOP&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=26;fontColor=#ffffff;strokeColor=#6D1F00;fillColor=#a0522d;" vertex="1" parent="1">
           <mxGeometry y="710" width="730" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-30" value="else" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-29" value="if verified" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="360" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-2" value="Web Portal" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;lifelineDashed=0;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="110" width="120" height="890" as="geometry" />
+          <mxGeometry x="200" y="110" width="350" height="890" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
           <mxGeometry x="55" y="60" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
-          <mxGeometry x="55" y="160" width="10" height="110" as="geometry" />
+          <mxGeometry x="55" y="160" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
           <mxGeometry x="55" y="330" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-41" value="View client&#39;s record" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=0.6;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="On6_evThupUvLIn3l62g-2" source="On6_evThupUvLIn3l62g-3">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="-110" y="330" as="sourcePoint" />
-            <mxPoint x="40" y="330" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
           <mxGeometry x="55.05" y="430" width="10" height="60" as="geometry" />
@@ -55,14 +43,20 @@
         <mxCell id="On6_evThupUvLIn3l62g-120" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
           <mxGeometry x="55" y="820" width="10" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-30" value="else" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
+          <mxGeometry x="-140" y="250" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-29" value="if verified" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
+          <mxGeometry x="-130" y="190" width="480" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-3" value="Analyst" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="40" height="960" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-3">
-          <mxGeometry x="15" y="80" width="10" height="240" as="geometry" />
+          <mxGeometry x="15" y="80" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-3">
-          <mxGeometry x="15" y="350" width="10" height="440" as="geometry" />
+          <mxGeometry x="15" y="370" width="10" height="420" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-3">
           <mxGeometry x="15" y="840" width="10" height="70" as="geometry" />
@@ -109,18 +103,7 @@
           <mxGeometry x="55" y="70" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-5">
-          <mxGeometry x="55" y="170" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-25" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="On6_evThupUvLIn3l62g-5" target="On6_evThupUvLIn3l62g-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="200" as="sourcePoint" />
-            <mxPoint x="25" y="199.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-26" value="authenticated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-25">
-          <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
-            <mxPoint x="26" y="-4" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="55" y="170" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-5">
           <mxGeometry x="55" y="340" width="10" height="40" as="geometry" />
@@ -143,12 +126,12 @@
             <mxPoint x="50" y="866.95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-124" value="session ended" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-123">
+        <mxCell id="On6_evThupUvLIn3l62g-124" value="session ended" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-123">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-7" value="Create new account" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;" edge="1" parent="1">
+        <mxCell id="On6_evThupUvLIn3l62g-7" value="Create new account" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=0.9;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-6" target="On6_evThupUvLIn3l62g-10">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="80" y="170" as="sourcePoint" />
             <mxPoint x="230" y="170" as="targetPoint" />
@@ -160,29 +143,29 @@
             <mxPoint x="469.5" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-16" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=-0.4;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="On6_evThupUvLIn3l62g-11">
+        <mxCell id="On6_evThupUvLIn3l62g-16" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=-0.4;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.738;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-10" target="On6_evThupUvLIn3l62g-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="225" as="sourcePoint" />
             <mxPoint x="430" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-17" value="Data saved success message" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-16">
+        <mxCell id="On6_evThupUvLIn3l62g-17" value="Data saved success message" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-16">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="26" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-18" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="On6_evThupUvLIn3l62g-10">
+        <mxCell id="On6_evThupUvLIn3l62g-18" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.342;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-6" target="On6_evThupUvLIn3l62g-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="244" as="sourcePoint" />
             <mxPoint x="305" y="274.53999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-19" value="redirect to login page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-18">
+        <mxCell id="On6_evThupUvLIn3l62g-19" value="redirect to login page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-18">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="26" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-22" value="Provide credentials" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;" edge="1" parent="1">
+        <mxCell id="On6_evThupUvLIn3l62g-22" value="Provide credentials" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=1;exitY=0.454;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-6" target="On6_evThupUvLIn3l62g-21">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="90" y="280" as="sourcePoint" />
             <mxPoint x="240" y="280" as="targetPoint" />
@@ -194,24 +177,24 @@
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-32" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="On6_evThupUvLIn3l62g-23">
+        <mxCell id="On6_evThupUvLIn3l62g-32" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.807;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-21" target="On6_evThupUvLIn3l62g-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="357" as="sourcePoint" />
             <mxPoint x="480" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-33" value="unauthorized user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-32">
+        <mxCell id="On6_evThupUvLIn3l62g-33" value="unauthorized user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-32">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="26" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-34" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-6" target="On6_evThupUvLIn3l62g-21">
+        <mxCell id="On6_evThupUvLIn3l62g-34" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.696;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-6" target="On6_evThupUvLIn3l62g-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="332" as="sourcePoint" />
             <mxPoint x="945" y="442.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-35" value="redirect to Dashboard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-34">
+        <mxCell id="On6_evThupUvLIn3l62g-35" value="redirect to Dashboard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-34">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="9" y="-4" as="offset" />
           </mxGeometry>
@@ -222,7 +205,7 @@
             <mxPoint x="265" y="342.03999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-37" value="Provide correct information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-36">
+        <mxCell id="On6_evThupUvLIn3l62g-37" value="Provide correct information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-36">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="9" y="-4" as="offset" />
           </mxGeometry>
@@ -268,18 +251,18 @@
             <mxPoint x="475" y="490.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-75" value="Clients list with record" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-74">
+        <mxCell id="On6_evThupUvLIn3l62g-75" value="Clients list with record" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-74">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="26" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-76" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0.1;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="On6_evThupUvLIn3l62g-40">
+        <mxCell id="On6_evThupUvLIn3l62g-76" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0.1;entryY=0.738;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-39" target="On6_evThupUvLIn3l62g-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="480" as="sourcePoint" />
             <mxPoint x="300" y="517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-77" value="Display clients table" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-76">
+        <mxCell id="On6_evThupUvLIn3l62g-77" value="Display clients table" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-76">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
@@ -296,7 +279,7 @@
             <mxPoint x="475.05" y="590.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-82" value="Successfully saved client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-81">
+        <mxCell id="On6_evThupUvLIn3l62g-82" value="Successfully saved client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-81">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="26" y="-4" as="offset" />
           </mxGeometry>
@@ -304,7 +287,7 @@
         <mxCell id="On6_evThupUvLIn3l62g-89" value="&lt;font style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;System Sequence Diagram GBSD&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="150" y="20" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-90" value="Add new client" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=0.6;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="On6_evThupUvLIn3l62g-78">
+        <mxCell id="On6_evThupUvLIn3l62g-90" value="Add new client" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=1;exitY=0.252;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-39" target="On6_evThupUvLIn3l62g-78">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="80" y="529.9999999999999" as="sourcePoint" />
             <mxPoint x="256" y="536.36" as="targetPoint" />
@@ -316,12 +299,12 @@
             <mxPoint x="249" y="602.0799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-88" value="Display questionare list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-87">
+        <mxCell id="On6_evThupUvLIn3l62g-88" value="Display questionare list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-87">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-93" value="fetch questionare" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;entryX=0.1;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="On6_evThupUvLIn3l62g-92" parent="1" source="On6_evThupUvLIn3l62g-2">
+        <mxCell id="On6_evThupUvLIn3l62g-93" value="fetch questionare" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;entryX=0.1;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" target="On6_evThupUvLIn3l62g-92" parent="1" source="On6_evThupUvLIn3l62g-2">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="270.04999999999995" y="640" as="sourcePoint" />
             <mxPoint x="446.05" y="656.36" as="targetPoint" />
@@ -346,7 +329,7 @@
             <mxPoint x="475" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-102" value="return questionare list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-101">
+        <mxCell id="On6_evThupUvLIn3l62g-102" value="return questionare list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-101">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
@@ -357,7 +340,7 @@
             <mxPoint x="245" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-99" value="select questionare" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-98">
+        <mxCell id="On6_evThupUvLIn3l62g-99" value="select questionare" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-98">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
@@ -386,7 +369,7 @@
             <mxPoint x="655" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-109" value="Squre box around face with stress level" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-108">
+        <mxCell id="On6_evThupUvLIn3l62g-109" value="Squre box around face with stress level" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-108">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
@@ -415,7 +398,7 @@
             <mxPoint x="490" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-117" value="return result again client&#39;s question" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-116">
+        <mxCell id="On6_evThupUvLIn3l62g-117" value="return result again client&#39;s question" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-116">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
@@ -440,9 +423,26 @@
             <mxPoint x="245" y="1006.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-128" value="Return to login page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-127">
+        <mxCell id="On6_evThupUvLIn3l62g-128" value="Return to login page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-127">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-41" value="View client&#39;s record" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=1;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-39" target="On6_evThupUvLIn3l62g-40">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="90" y="440" as="sourcePoint" />
+            <mxPoint x="240" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-25" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-21" target="On6_evThupUvLIn3l62g-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="465" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-26" value="authenticated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-25">
+          <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
+            <mxPoint x="26" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
