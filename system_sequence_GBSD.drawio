@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T22:11:09.456Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MlPs0Q_bwkG8bki51KX-" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T22:15:28.907Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="a47Rcw7tj0rd4sCAc91s" version="16.0.0" type="github">
   <diagram id="rJHmTFbt23OQRNdXKMWi" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FCE7CD" math="0" shadow="0">
       <root>
@@ -34,6 +34,21 @@
         <mxCell id="On6_evThupUvLIn3l62g-91" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
           <mxGeometry x="55.05" y="520" width="10" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-103" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-2">
+          <mxGeometry x="55.05" y="610" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-105" value="Open webcam" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;sketch=0;strokeColor=#23445D;elbow=vertical;exitX=0.995;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="On6_evThupUvLIn3l62g-2" source="On6_evThupUvLIn3l62g-103" target="On6_evThupUvLIn3l62g-103">
+          <mxGeometry x="-0.419" relative="1" as="geometry">
+            <mxPoint x="80" y="630" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="632" />
+              <mxPoint x="110" y="632" />
+              <mxPoint x="110" y="655" />
+            </Array>
+            <mxPoint x="80" y="660" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-3" value="Analyst" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="40" height="840" as="geometry" />
         </mxCell>
@@ -66,17 +81,6 @@
               <mxPoint x="85" y="330" />
             </Array>
             <mxPoint x="65" y="330" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-54" value="apply CNN" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;sketch=0;strokeColor=#23445D;elbow=vertical;" edge="1" parent="On6_evThupUvLIn3l62g-4">
-          <mxGeometry x="-0.1429" y="5" relative="1" as="geometry">
-            <mxPoint x="55" y="245" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="85" y="245" />
-              <mxPoint x="85" y="265" />
-            </Array>
-            <mxPoint x="65" y="265" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -117,17 +121,6 @@
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-92" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="On6_evThupUvLIn3l62g-5">
           <mxGeometry x="55.05" y="530" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-94" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="On6_evThupUvLIn3l62g-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-175" y="620" as="sourcePoint" />
-            <mxPoint x="55.049999999999955" y="622.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-95" value="Successfully saved client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-94">
-          <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
-            <mxPoint x="26" y="-4" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="On6_evThupUvLIn3l62g-7" value="Create new account" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
@@ -311,7 +304,7 @@
             <mxPoint x="256" y="626.36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On6_evThupUvLIn3l62g-100" value="start question timer" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=1.5;exitY=0.606;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="On6_evThupUvLIn3l62g-100" value="start question timer" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=1;sketch=0;strokeColor=#23445D;curved=0;exitX=1;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="On6_evThupUvLIn3l62g-39" target="On6_evThupUvLIn3l62g-103">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="70" y="735.26" as="sourcePoint" />
             <mxPoint x="255" y="730" as="targetPoint" />
@@ -337,6 +330,28 @@
         <mxCell id="On6_evThupUvLIn3l62g-99" value="select questionare" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-98">
           <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-54" value="apply CNN" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;sketch=0;strokeColor=#23445D;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="-0.1429" y="5" relative="1" as="geometry">
+            <mxPoint x="845" y="325" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="875" y="325" />
+              <mxPoint x="875" y="345" />
+            </Array>
+            <mxPoint x="855" y="345" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-94" value="" style="endArrow=none;dashed=1;html=1;rounded=1;sketch=0;strokeColor=#23445D;curved=0;startArrow=classic;startFill=1;entryX=0;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="790.02" as="sourcePoint" />
+            <mxPoint x="745.05" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="On6_evThupUvLIn3l62g-95" value="Successfully saved client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="On6_evThupUvLIn3l62g-94">
+          <mxGeometry x="-0.2042" y="-4" relative="1" as="geometry">
+            <mxPoint x="26" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
