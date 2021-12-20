@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T23:03:29.971Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.0" etag="odvumbBm_LJJdXhTHOMr" type="github"><diagram id="76-Z5J_hO1XvjAIdn8TQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-20T23:08:08.057Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="e4lwc1fQ-eYqwGTs1H1J" version="16.0.0" type="github">
+  <diagram id="76-Z5J_hO1XvjAIdn8TQ" name="Page-1">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kFZeInZ5YXrBo36wIZL7-1" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kFZeInZ5YXrBo36wIZL7-2" value="Item 1" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;" vertex="1" parent="kFZeInZ5YXrBo36wIZL7-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kFZeInZ5YXrBo36wIZL7-3" value="Item 2" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;" vertex="1" parent="kFZeInZ5YXrBo36wIZL7-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kFZeInZ5YXrBo36wIZL7-4" value="Item 3" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;" vertex="1" parent="kFZeInZ5YXrBo36wIZL7-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
