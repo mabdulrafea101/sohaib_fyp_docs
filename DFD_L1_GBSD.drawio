@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T03:18:09.017Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="E4MBUvAKWhjb5GuUsp9B" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T03:21:24.164Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nYbu5QNssmkWMBCZgcas" version="16.0.0" type="github">
   <diagram id="uYI7iWka7iw2npo7qIJm" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FAD9D5" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-54" value="Fill client info form()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-20">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-54" value="&lt;font color=&quot;#000000&quot;&gt;Fill client info form()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-20">
           <mxGeometry x="0.3091" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -44,7 +44,7 @@
             <mxPoint x="14" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-55" value="fill question form()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-21">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-55" value="&lt;font color=&quot;#000000&quot;&gt;fill question form()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-21">
           <mxGeometry x="-0.2091" y="2" relative="1" as="geometry">
             <mxPoint x="13" y="2" as="offset" />
           </mxGeometry>
@@ -62,7 +62,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-53" value="open&lt;br&gt;web&lt;br&gt;cam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-28">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-53" value="&lt;font color=&quot;#000000&quot;&gt;open&lt;br&gt;web&lt;br&gt;cam&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-28">
           <mxGeometry x="-0.1209" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -82,7 +82,7 @@
             <mxPoint x="25" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-52" value="View predicted results" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-39">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-52" value="&lt;font color=&quot;#000000&quot;&gt;View predicted results&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-39">
           <mxGeometry x="0.1805" y="-4" relative="1" as="geometry">
             <mxPoint x="24" y="-4" as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-12" value="email, password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-8">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-12" value="&lt;font color=&quot;#000000&quot;&gt;email, password&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-8">
           <mxGeometry x="-0.2571" y="-2" relative="1" as="geometry">
             <mxPoint x="-325" y="32" as="offset" />
           </mxGeometry>
@@ -113,7 +113,7 @@
             <mxPoint x="-405" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-59" value="email, password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-8">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-59" value="&lt;font color=&quot;#000000&quot;&gt;email, password&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-8">
           <mxGeometry x="-0.2571" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -126,7 +126,7 @@
             <mxPoint x="2" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-60" value="Gather new data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-43">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-60" value="&lt;font color=&quot;#000000&quot;&gt;Gather new data&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-43">
           <mxGeometry x="0.1889" y="-2" relative="1" as="geometry">
             <mxPoint x="1" y="-14" as="offset" />
           </mxGeometry>
@@ -165,7 +165,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-46" value="Train Dataset with ratio 80% into 20%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-45">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-46" value="&lt;font color=&quot;#000000&quot;&gt;Train Dataset with ratio 80% into 20%&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-45">
           <mxGeometry x="-0.5235" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="1" as="offset" />
           </mxGeometry>
@@ -186,7 +186,7 @@
             <mxPoint x="32" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-58" value="Validate data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-9">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-58" value="&lt;font color=&quot;#000000&quot;&gt;Validate data&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-9">
           <mxGeometry x="-0.3556" y="-3" relative="1" as="geometry">
             <mxPoint x="31" y="-3" as="offset" />
           </mxGeometry>
@@ -213,7 +213,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-57" value="Save info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-15">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-57" value="&lt;font color=&quot;#000000&quot;&gt;Save info&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-15">
           <mxGeometry x="-0.0857" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -250,7 +250,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-31" value="FPS rate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-30">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-31" value="&lt;font color=&quot;#000000&quot;&gt;FPS rate&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-30">
           <mxGeometry x="-0.4526" y="2" relative="1" as="geometry">
             <mxPoint x="73" as="offset" />
           </mxGeometry>
@@ -273,7 +273,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqCk6lkHSxCI5OT8QeCR-36" value="save resluts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-35">
+        <mxCell id="gqCk6lkHSxCI5OT8QeCR-36" value="&lt;font color=&quot;#000000&quot;&gt;save resluts&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gqCk6lkHSxCI5OT8QeCR-35">
           <mxGeometry x="-0.3308" relative="1" as="geometry">
             <mxPoint x="-5" y="35" as="offset" />
           </mxGeometry>
