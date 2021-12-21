@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T00:16:00.293Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="31JhYUGclCt0c7avur9Z" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T00:22:35.359Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="onKcVVTw2yHdPGgc-Tg-" version="16.0.0" type="github">
   <diagram id="wfbCHq00WRVTaW4-jE_w" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#B0E3E6" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5_xsWp0p6IKdPcsy124D-45" value="Answer" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="490" y="680" width="170" height="270" as="geometry">
+          <mxGeometry x="490" y="680" width="170" height="242" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -168,20 +168,17 @@
         <mxCell id="5_xsWp0p6IKdPcsy124D-49" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=#B0E3E6;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
           <mxGeometry y="156" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="5_xsWp0p6IKdPcsy124D-50" value="manage_analyst(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
+        <mxCell id="5_xsWp0p6IKdPcsy124D-50" value="save_predicted_ans()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
           <mxGeometry y="164" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5_xsWp0p6IKdPcsy124D-51" value="ViewReports() : void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
+        <mxCell id="5_xsWp0p6IKdPcsy124D-51" value="get_answer_list()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
           <mxGeometry y="190" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5_xsWp0p6IKdPcsy124D-52" value="BlockAccount() : void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
+        <mxCell id="5_xsWp0p6IKdPcsy124D-52" value="assign_to_question()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
           <mxGeometry y="216" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5_xsWp0p6IKdPcsy124D-53" value="ViewAnalystReport() : Void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-45">
-          <mxGeometry y="242" width="170" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="5_xsWp0p6IKdPcsy124D-56" value="Report" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="250" y="693" width="170" height="217" as="geometry">
+          <mxGeometry x="250" y="693" width="170" height="190" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -203,11 +200,8 @@
         <mxCell id="5_xsWp0p6IKdPcsy124D-62" value="DisplayReports() : void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-56">
           <mxGeometry y="138" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5_xsWp0p6IKdPcsy124D-63" value="BlockAccount() : void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-56">
+        <mxCell id="5_xsWp0p6IKdPcsy124D-63" value="forward_to_client(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-56">
           <mxGeometry y="164" width="170" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="5_xsWp0p6IKdPcsy124D-64" value="ViewAnalystReport() : Void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="5_xsWp0p6IKdPcsy124D-56">
-          <mxGeometry y="190" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5_xsWp0p6IKdPcsy124D-67" value="Client" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="190" y="960" width="160" height="132" as="geometry">
